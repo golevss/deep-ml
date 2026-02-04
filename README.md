@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 1 problems · 0 labs · 0 math
+**4** solved · 4 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-02-03 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-02-04 | [solution](problems/0308-gradient-direction-and-magnitude) |
+| [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-02-04 | [solution](problems/0309-product-rule-for-derivatives) |
+| [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-02-04 | [solution](problems/0312-quotient-rule-for-derivatives) |
 
 ---
 

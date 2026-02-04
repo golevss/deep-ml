@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:06:07.049Z",
+  "generated_at": "2026-11-26T09:06:09.590Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -13,6 +13,45 @@
       "last_pushed_at": "2026-02-03T21:44:27.237Z",
       "language": "python",
       "lines": 3
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-02-04T10:53:18.593Z",
+      "last_pushed_at": "2026-02-04T10:53:18.593Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-02-04T11:12:18.194Z",
+      "last_pushed_at": "2026-02-04T11:12:18.194Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-02-04T19:41:20.301Z",
+      "last_pushed_at": "2026-02-04T19:41:20.301Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
