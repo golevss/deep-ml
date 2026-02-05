@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:06:09.590Z",
+  "generated_at": "2026-11-26T09:06:12.524Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -52,6 +52,136 @@
       "last_pushed_at": "2026-02-04T19:41:20.301Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-02-05T13:48:48.099Z",
+      "last_pushed_at": "2026-02-05T13:48:48.099Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:214": {
+      "kind": "problem",
+      "id": "214",
+      "title": "Chain Rule for Composite Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/214",
+      "path": "problems/0214-chain-rule-for-composite-functions",
+      "first_solved_at": "2026-02-05T14:09:15.819Z",
+      "last_pushed_at": "2026-02-05T14:09:15.819Z",
+      "language": "python",
+      "lines": 45
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-02-05T14:24:51.720Z",
+      "last_pushed_at": "2026-02-05T14:24:51.720Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:218": {
+      "kind": "problem",
+      "id": "218",
+      "title": "Compute the Hessian Matrix",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/218",
+      "path": "problems/0218-compute-the-hessian-matrix",
+      "first_solved_at": "2026-02-05T14:38:31.099Z",
+      "last_pushed_at": "2026-02-05T14:38:31.099Z",
+      "language": "python",
+      "lines": 42
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-02-05T14:49:40.392Z",
+      "last_pushed_at": "2026-02-05T14:49:40.392Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-02-05T15:01:31.662Z",
+      "last_pushed_at": "2026-02-05T15:01:31.662Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:220": {
+      "kind": "problem",
+      "id": "220",
+      "title": "Derivative of Cross-Entropy Loss w.r.t. Logits",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/220",
+      "path": "problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits",
+      "first_solved_at": "2026-02-05T15:08:00.523Z",
+      "last_pushed_at": "2026-02-05T15:08:00.523Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:25": {
+      "kind": "problem",
+      "id": "25",
+      "title": "Single Neuron with Backpropagation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/25",
+      "path": "problems/0025-single-neuron-with-backpropagation",
+      "first_solved_at": "2026-02-05T16:11:38.202Z",
+      "last_pushed_at": "2026-02-05T16:11:38.202Z",
+      "language": "python",
+      "lines": 46
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2026-02-05T18:17:50.090Z",
+      "last_pushed_at": "2026-02-05T18:17:50.090Z",
+      "language": "python",
+      "lines": 48
+    },
+    "problem:292": {
+      "kind": "problem",
+      "id": "292",
+      "title": "Implement Gradient Clipping by Value",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/292",
+      "path": "problems/0292-implement-gradient-clipping-by-value",
+      "first_solved_at": "2026-02-05T19:25:57.439Z",
+      "last_pushed_at": "2026-02-05T19:25:57.439Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
