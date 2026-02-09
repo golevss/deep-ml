@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:06:29.733Z",
+  "generated_at": "2026-11-26T09:06:32.526Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -286,6 +286,84 @@
       "last_pushed_at": "2026-02-08T21:14:14.646Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-02-09T08:02:09.365Z",
+      "last_pushed_at": "2026-02-09T08:02:09.365Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:313": {
+      "kind": "problem",
+      "id": "313",
+      "title": "Numerical Gradient Checking",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/313",
+      "path": "problems/0313-numerical-gradient-checking",
+      "first_solved_at": "2026-02-09T08:25:32.516Z",
+      "last_pushed_at": "2026-02-09T08:25:32.516Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:310": {
+      "kind": "problem",
+      "id": "310",
+      "title": "Taylor Series Approximation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/310",
+      "path": "problems/0310-taylor-series-approximation",
+      "first_solved_at": "2026-02-09T10:22:23.965Z",
+      "last_pushed_at": "2026-02-09T10:22:23.965Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2026-02-09T10:30:20.510Z",
+      "last_pushed_at": "2026-02-09T10:30:20.510Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-02-09T10:52:37.091Z",
+      "last_pushed_at": "2026-02-09T10:52:37.091Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-02-09T11:17:27.196Z",
+      "last_pushed_at": "2026-02-09T11:17:27.196Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
