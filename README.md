@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 28 problems · 0 labs · 0 math
+**34** solved · 34 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,22 +15,28 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-02-08 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-02-09 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-02-07 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-02-10 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-02-03 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-02-05 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-02-09 | [solution](problems/0083-dot-product-calculator) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-02-04 | [solution](problems/0308-gradient-direction-and-magnitude) |
+| [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2026-02-10 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
+| [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2026-02-10 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
 | [Implement Gradient Clipping by Value](https://www.deep-ml.com/problems/292) | easy | 2026-02-05 | [solution](problems/0292-implement-gradient-clipping-by-value) |
+| [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-02-10 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-02-06 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-02-09 | [solution](problems/0146-momentum-optimizer) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-02-06 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-02-07 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-02-09 | [solution](problems/0310-taylor-series-approximation) |
+| [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-02-10 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-02-06 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-02-07 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-02-05 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-02-05 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-02-05 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-02-05 | [solution](problems/0219-derivative-of-softmax) |
+| [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-02-10 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-02-05 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-02-05 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-02-09 | [solution](problems/0009-matrix-times-matrix) |

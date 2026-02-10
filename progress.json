@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:06:32.526Z",
+  "generated_at": "2026-11-26T09:06:35.336Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -364,6 +364,84 @@
       "last_pushed_at": "2026-02-09T11:17:27.196Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:68": {
+      "kind": "problem",
+      "id": "68",
+      "title": "Find the column space of a matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/68",
+      "path": "problems/0068-find-the-column-space-of-a-matrix",
+      "first_solved_at": "2026-02-10T11:22:49.806Z",
+      "last_pushed_at": "2026-02-10T11:22:49.806Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-02-10T11:29:35.985Z",
+      "last_pushed_at": "2026-02-10T11:29:35.985Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-02-10T13:37:16.645Z",
+      "last_pushed_at": "2026-02-10T13:37:16.645Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2026-02-10T13:54:29.507Z",
+      "last_pushed_at": "2026-02-10T13:54:29.507Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:67": {
+      "kind": "problem",
+      "id": "67",
+      "title": "Implement Compressed Column Sparse Matrix Format (CSC)",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/67",
+      "path": "problems/0067-implement-compressed-column-sparse-matrix-format-csc",
+      "first_solved_at": "2026-02-10T13:57:05.870Z",
+      "last_pushed_at": "2026-02-10T13:57:05.870Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2026-02-10T14:23:48.813Z",
+      "last_pushed_at": "2026-02-10T14:23:48.813Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
