@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:13:04.910Z",
+  "generated_at": "2026-11-26T09:13:08.364Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -559,6 +559,32 @@
       "last_pushed_at": "2026-02-13T20:54:54.461Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-02-14T12:13:10.738Z",
+      "last_pushed_at": "2026-02-14T12:13:10.738Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:127": {
+      "kind": "problem",
+      "id": "127",
+      "title": "Find Captain Redbeard's Hidden Treasure",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/127",
+      "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
+      "first_solved_at": "2026-02-14T12:38:42.339Z",
+      "last_pushed_at": "2026-02-14T12:38:42.339Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
