@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:13:08.364Z",
+  "generated_at": "2026-11-26T09:13:11.359Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -585,6 +585,32 @@
       "last_pushed_at": "2026-02-14T12:38:42.339Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:311": {
+      "kind": "problem",
+      "id": "311",
+      "title": "Classify Critical Points Using Hessian Eigenvalues",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/311",
+      "path": "problems/0311-classify-critical-points-using-hessian-eigenvalues",
+      "first_solved_at": "2026-02-15T19:35:02.276Z",
+      "last_pushed_at": "2026-02-15T19:35:02.276Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:265": {
+      "kind": "problem",
+      "id": "265",
+      "title": "Implement 2D Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/265",
+      "path": "problems/0265-implement-2d-average-pooling",
+      "first_solved_at": "2026-02-15T20:16:19.336Z",
+      "last_pushed_at": "2026-02-15T20:16:19.336Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
