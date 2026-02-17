@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:13:14.505Z",
+  "generated_at": "2026-11-26T09:13:17.113Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -624,6 +624,58 @@
       "last_pushed_at": "2026-02-16T14:41:54.875Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:161": {
+      "kind": "problem",
+      "id": "161",
+      "title": "Exponential Weighted Average of Rewards",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/161",
+      "path": "problems/0161-exponential-weighted-average-of-rewards",
+      "first_solved_at": "2026-02-17T10:00:08.270Z",
+      "last_pushed_at": "2026-02-17T10:00:08.270Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:28": {
+      "kind": "problem",
+      "id": "28",
+      "title": "SVD of a 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/28",
+      "path": "problems/0028-svd-of-a-2x2-matrix",
+      "first_solved_at": "2026-02-17T10:45:51.155Z",
+      "last_pushed_at": "2026-02-17T10:45:51.155Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2026-02-17T10:49:55.372Z",
+      "last_pushed_at": "2026-02-17T10:49:55.372Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2026-02-17T11:31:54.358Z",
+      "last_pushed_at": "2026-02-17T11:31:54.358Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
