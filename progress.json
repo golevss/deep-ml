@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:09:53.559Z",
+  "generated_at": "2026-11-26T18:09:56.250Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -765,6 +765,136 @@
       "last_pushed_at": "2026-02-20T11:16:19.416Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:221": {
+      "kind": "problem",
+      "id": "221",
+      "title": "Newton's Method for Optimization",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/221",
+      "path": "problems/0221-newton-s-method-for-optimization",
+      "first_solved_at": "2026-02-21T11:44:34.970Z",
+      "last_pushed_at": "2026-02-21T11:44:34.970Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:314": {
+      "kind": "problem",
+      "id": "314",
+      "title": "Lagrange Multipliers for Constrained Quadratic Optimization",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/314",
+      "path": "problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization",
+      "first_solved_at": "2026-02-21T12:23:19.697Z",
+      "last_pushed_at": "2026-02-21T12:23:19.697Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-02-21T12:27:00.638Z",
+      "last_pushed_at": "2026-02-21T12:27:00.638Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-02-21T12:30:08.470Z",
+      "last_pushed_at": "2026-02-21T12:30:08.470Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-02-21T19:03:46.612Z",
+      "last_pushed_at": "2026-02-21T19:03:46.612Z",
+      "language": "python",
+      "lines": 18
+    },
+    "lab:4": {
+      "kind": "lab",
+      "id": "4",
+      "title": "MNIST: Classification Loss (with Gradient)",
+      "difficulty": "hard",
+      "category": "Loss Functions",
+      "url": "https://www.deep-ml.com/labs/4",
+      "path": "labs/0004-mnist-classification-loss-with-gradient",
+      "first_solved_at": "2026-02-21T19:20:18.508Z",
+      "last_pushed_at": "2026-02-21T19:20:18.508Z",
+      "language": "python",
+      "lines": 25
+    },
+    "lab:12": {
+      "kind": "lab",
+      "id": "12",
+      "title": "PyTorch: Implement Your Own Gradient Descent Training Step",
+      "difficulty": "medium",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/12",
+      "path": "labs/0012-pytorch-implement-your-own-gradient-descent-training-step",
+      "first_solved_at": "2026-02-21T19:40:16.118Z",
+      "last_pushed_at": "2026-02-21T19:40:16.118Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-02-21T20:30:49.900Z",
+      "last_pushed_at": "2026-02-21T20:30:49.900Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-02-21T20:36:49.455Z",
+      "last_pushed_at": "2026-02-21T20:36:49.455Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-02-21T20:51:24.019Z",
+      "last_pushed_at": "2026-02-21T20:51:24.019Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }

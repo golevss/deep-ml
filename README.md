@@ -2,7 +2,9 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**59** solved · 58 problems · 0 labs · 1 math
+**Completed:** Calculus (9/9)
+
+**69** solved · 66 problems · 2 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-02-21 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-02-08 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-02-16 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-02-09 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
@@ -32,15 +35,20 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gradient Clipping by Value](https://www.deep-ml.com/problems/292) | easy | 2026-02-05 | [solution](problems/0292-implement-gradient-clipping-by-value) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-02-10 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-02-13 | [solution](problems/0042-implement-relu-activation-function) |
+| [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-02-21 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2026-02-20 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-02-13 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-02-20 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-02-06 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-02-09 | [solution](problems/0146-momentum-optimizer) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-02-13 | [solution](problems/0081-poisson-distribution-probability-calculator) |
+| [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-02-21 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-02-06 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-02-07 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Select Rows and Columns with Boolean Masks](https://www.deep-ml.com/problems/2320) | easy | 2026-11-26 | [solution](problems/2320-select-rows-and-columns-with-boolean-masks) |
+| [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-02-21 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-02-21 | [solution](problems/0024-single-neuron) |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-02-21 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-02-09 | [solution](problems/0310-taylor-series-approximation) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-02-10 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-02-06 | [solution](problems/0002-transpose-of-a-matrix) |
@@ -58,8 +66,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-02-13 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-02-05 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-02-05 | [solution](problems/0202-jacobian-matrix-calculation) |
+| [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-02-21 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-02-09 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-02-08 | [solution](problems/0007-matrix-transformation) |
+| [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-02-21 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-02-09 | [solution](problems/0313-numerical-gradient-checking) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-02-05 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-02-19 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
@@ -70,6 +80,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-02-17 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-02-17 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-02-17 | [solution](problems/0028-svd-of-a-2x2-matrix) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-02-21 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
+| [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-02-21 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 
 ## Math
 
