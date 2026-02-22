@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:09:56.250Z",
+  "generated_at": "2026-11-26T18:09:59.046Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -895,6 +895,32 @@
       "last_pushed_at": "2026-02-21T20:51:24.019Z",
       "language": "python",
       "lines": 15
+    },
+    "lab:13": {
+      "kind": "lab",
+      "id": "13",
+      "title": "PyTorch: Build a Complete Training Loop",
+      "difficulty": "easy",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/13",
+      "path": "labs/0013-pytorch-build-a-complete-training-loop",
+      "first_solved_at": "2026-02-22T18:05:59.100Z",
+      "last_pushed_at": "2026-02-22T18:05:59.100Z",
+      "language": "python",
+      "lines": 48
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-02-22T18:19:01.605Z",
+      "last_pushed_at": "2026-02-22T18:19:01.605Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
