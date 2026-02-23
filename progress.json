@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:09:59.046Z",
+  "generated_at": "2026-11-26T18:10:01.729Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -921,6 +921,58 @@
       "last_pushed_at": "2026-02-22T18:19:01.605Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-02-23T20:44:42.585Z",
+      "last_pushed_at": "2026-02-23T20:44:42.585Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-02-23T20:47:21.035Z",
+      "last_pushed_at": "2026-02-23T20:47:21.035Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-02-23T20:52:47.087Z",
+      "last_pushed_at": "2026-02-23T20:52:47.087Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:98": {
+      "kind": "problem",
+      "id": "98",
+      "title": "Implement PReLU Forward and Backward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/98",
+      "path": "problems/0098-implement-prelu-forward-and-backward-pass",
+      "first_solved_at": "2026-02-23T20:56:37.664Z",
+      "last_pushed_at": "2026-02-23T20:56:37.664Z",
+      "language": "python",
+      "lines": 2
     }
   }
 }
