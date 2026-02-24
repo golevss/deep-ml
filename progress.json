@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:10:01.729Z",
+  "generated_at": "2026-11-26T18:10:04.811Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -973,6 +973,123 @@
       "last_pushed_at": "2026-02-23T20:56:37.664Z",
       "language": "python",
       "lines": 2
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-02-24T10:17:21.558Z",
+      "last_pushed_at": "2026-02-24T10:17:21.558Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-02-24T10:39:01.861Z",
+      "last_pushed_at": "2026-02-24T10:39:01.861Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-02-24T11:40:17.993Z",
+      "last_pushed_at": "2026-02-24T11:40:17.993Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-02-24T11:44:26.163Z",
+      "last_pushed_at": "2026-02-24T11:44:26.163Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-02-24T11:50:48.200Z",
+      "last_pushed_at": "2026-02-24T11:50:48.200Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-02-24T12:07:08.299Z",
+      "last_pushed_at": "2026-02-24T12:07:08.299Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2026-02-24T12:18:20.014Z",
+      "last_pushed_at": "2026-02-24T12:18:20.014Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-02-24T12:21:31.583Z",
+      "last_pushed_at": "2026-02-24T12:21:31.583Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:77": {
+      "kind": "problem",
+      "id": "77",
+      "title": "Calculate Performance Metrics for a Classification Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/77",
+      "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
+      "first_solved_at": "2026-02-24T12:29:31.559Z",
+      "last_pushed_at": "2026-02-24T12:29:31.559Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
