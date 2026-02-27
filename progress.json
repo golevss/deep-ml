@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:10:07.832Z",
+  "generated_at": "2026-11-26T18:10:11.017Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1129,6 +1129,32 @@
       "last_pushed_at": "2026-02-25T15:42:53.416Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:49": {
+      "kind": "problem",
+      "id": "49",
+      "title": "Implement Adam Optimization Algorithm",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/49",
+      "path": "problems/0049-implement-adam-optimization-algorithm",
+      "first_solved_at": "2026-02-27T21:13:18.177Z",
+      "last_pushed_at": "2026-02-27T21:13:18.177Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-02-27T21:39:39.249Z",
+      "last_pushed_at": "2026-02-27T21:39:39.249Z",
+      "language": "python",
+      "lines": 3
     }
   }
 }
