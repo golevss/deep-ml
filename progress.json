@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:10:11.017Z",
+  "generated_at": "2026-11-26T18:10:13.598Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1155,6 +1155,45 @@
       "last_pushed_at": "2026-02-27T21:39:39.249Z",
       "language": "python",
       "lines": 3
+    },
+    "problem:50": {
+      "kind": "problem",
+      "id": "50",
+      "title": "Implement Lasso Regression using ISTA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/50",
+      "path": "problems/0050-implement-lasso-regression-using-ista",
+      "first_solved_at": "2026-02-28T11:49:17.461Z",
+      "last_pushed_at": "2026-02-28T11:49:17.461Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:21": {
+      "kind": "problem",
+      "id": "21",
+      "title": "Pegasos Kernel SVM Implementation",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/21",
+      "path": "problems/0021-pegasos-kernel-svm-implementation",
+      "first_solved_at": "2026-02-28T19:48:14.611Z",
+      "last_pushed_at": "2026-02-28T19:48:14.611Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:189": {
+      "kind": "problem",
+      "id": "189",
+      "title": "Implement Local Response Normalization (LRN)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/189",
+      "path": "problems/0189-implement-local-response-normalization-lrn",
+      "first_solved_at": "2026-02-28T20:11:46.658Z",
+      "last_pushed_at": "2026-02-28T20:11:46.658Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }

@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**89** solved · 85 problems · 3 labs · 1 math
+**92** solved · 88 problems · 3 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -80,6 +80,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-02-27 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-02-14 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-02-25 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-02-28 | [solution](problems/0050-implement-lasso-regression-using-ista) |
+| [Implement Local Response Normalization (LRN)](https://www.deep-ml.com/problems/189) | medium | 2026-02-28 | [solution](problems/0189-implement-local-response-normalization-lrn) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-02-23 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-02-13 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-02-05 | [solution](problems/0026-implementing-basic-autograd-operations) |
@@ -97,6 +99,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-02-05 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-02-13 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-02-17 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2026-02-28 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-02-17 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-02-17 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 
