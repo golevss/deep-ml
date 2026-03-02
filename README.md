@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**92** solved · 88 problems · 3 labs · 1 math
+**93** solved · 89 problems · 3 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-02-05 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-02-24 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-02-09 | [solution](problems/0083-dot-product-calculator) |
+| [Exponential Distribution PDF and CDF](https://www.deep-ml.com/problems/340) | easy | 2026-03-02 | [solution](problems/0340-exponential-distribution-pdf-and-cdf) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-02-17 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
 | [First Look at a Table: Shape, Types, Missing Values and Unique Counts](https://www.deep-ml.com/problems/2319) | easy | 2026-11-26 | [solution](problems/2319-first-look-at-a-table-shape-types-missing-values-and-unique-counts) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-02-24 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
