@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**94** solved · 90 problems · 3 labs · 1 math
+**95** solved · 91 problems · 3 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -88,6 +88,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-02-13 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-02-05 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-02-05 | [solution](problems/0202-jacobian-matrix-calculation) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-03-04 | [solution](problems/0017-k-means-clustering) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-02-21 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-02-09 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-02-08 | [solution](problems/0007-matrix-transformation) |
