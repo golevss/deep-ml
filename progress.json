@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:10:21.626Z",
+  "generated_at": "2026-11-26T18:10:24.128Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1233,6 +1233,71 @@
       "last_pushed_at": "2026-03-04T20:35:50.500Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-03-09T19:56:18.156Z",
+      "last_pushed_at": "2026-03-09T19:56:18.156Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:266": {
+      "kind": "problem",
+      "id": "266",
+      "title": "Implement the Hardtanh Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/266",
+      "path": "problems/0266-implement-the-hardtanh-activation-function",
+      "first_solved_at": "2026-03-09T20:02:25.189Z",
+      "last_pushed_at": "2026-03-09T20:02:25.189Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-03-09T20:21:05.091Z",
+      "last_pushed_at": "2026-03-09T20:21:05.091Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-03-09T20:27:21.511Z",
+      "last_pushed_at": "2026-03-09T20:27:21.511Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-03-09T20:34:16.104Z",
+      "last_pushed_at": "2026-03-09T20:34:16.104Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
