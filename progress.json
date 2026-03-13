@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:10:24.128Z",
+  "generated_at": "2026-11-26T18:10:27.183Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1298,6 +1298,45 @@
       "last_pushed_at": "2026-03-09T20:34:16.104Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2026-03-13T13:19:36.517Z",
+      "last_pushed_at": "2026-03-13T13:19:36.517Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2026-03-13T14:02:07.359Z",
+      "last_pushed_at": "2026-03-13T14:02:07.359Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:38": {
+      "kind": "problem",
+      "id": "38",
+      "title": "Implement AdaBoost Fit Method",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/38",
+      "path": "problems/0038-implement-adaboost-fit-method",
+      "first_solved_at": "2026-03-13T14:07:39.586Z",
+      "last_pushed_at": "2026-03-13T14:07:39.586Z",
+      "language": "python",
+      "lines": 76
     }
   }
 }
