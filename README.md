@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**103** solved · 99 problems · 3 labs · 1 math
+**104** solved · 100 problems · 3 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -96,6 +96,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-02-05 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-03-04 | [solution](problems/0017-k-means-clustering) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-02-21 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
+| [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-03-18 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-02-09 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-02-08 | [solution](problems/0007-matrix-transformation) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-02-21 | [solution](problems/0221-newton-s-method-for-optimization) |
