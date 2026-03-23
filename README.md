@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**104** solved · 100 problems · 3 labs · 1 math
+**106** solved · 102 problems · 3 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -43,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2026-02-10 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
 | [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2026-02-10 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-02-24 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
+| [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-03-23 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Gradient Clipping by Value](https://www.deep-ml.com/problems/292) | easy | 2026-02-05 | [solution](problems/0292-implement-gradient-clipping-by-value) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-02-10 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-02-24 | [solution](problems/0046-implement-precision-metric) |
@@ -86,6 +87,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-02-13 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-02-27 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-02-14 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-03-23 | [solution](problems/0294-implement-int8-quantization) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-02-25 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-02-28 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Local Response Normalization (LRN)](https://www.deep-ml.com/problems/189) | medium | 2026-02-28 | [solution](problems/0189-implement-local-response-normalization-lrn) |

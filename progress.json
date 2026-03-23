@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:10:30.099Z",
+  "generated_at": "2026-11-26T18:10:32.772Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1350,6 +1350,32 @@
       "last_pushed_at": "2026-03-18T17:31:23.803Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:294": {
+      "kind": "problem",
+      "id": "294",
+      "title": "Implement INT8 Quantization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/294",
+      "path": "problems/0294-implement-int8-quantization",
+      "first_solved_at": "2026-03-23T08:31:20.783Z",
+      "last_pushed_at": "2026-03-23T08:31:20.783Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:64": {
+      "kind": "problem",
+      "id": "64",
+      "title": "Implement Gini Impurity Calculation for a Set of Classes",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/64",
+      "path": "problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes",
+      "first_solved_at": "2026-03-23T11:37:24.700Z",
+      "last_pushed_at": "2026-03-23T11:37:24.700Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
