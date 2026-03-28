@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:10:32.772Z",
+  "generated_at": "2026-11-26T18:10:35.609Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1376,6 +1376,32 @@
       "last_pushed_at": "2026-03-23T11:37:24.700Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2026-03-28T11:56:06.245Z",
+      "last_pushed_at": "2026-03-28T11:56:06.245Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:95": {
+      "kind": "problem",
+      "id": "95",
+      "title": "Calculate the Phi Coefficient",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/95",
+      "path": "problems/0095-calculate-the-phi-coefficient",
+      "first_solved_at": "2026-03-28T12:05:21.356Z",
+      "last_pushed_at": "2026-03-28T12:05:21.356Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
