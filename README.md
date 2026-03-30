@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**108** solved · 104 problems · 3 labs · 1 math
+**109** solved · 105 problems · 3 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -87,6 +87,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-02-10 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-02-13 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-02-27 | [solution](problems/0049-implement-adam-optimization-algorithm) |
+| [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-03-30 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-02-14 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-03-23 | [solution](problems/0294-implement-int8-quantization) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-02-25 | [solution](problems/0018-implement-k-fold-cross-validation) |
