@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:10:38.133Z",
+  "generated_at": "2026-11-26T18:10:40.930Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1415,6 +1415,45 @@
       "last_pushed_at": "2026-03-30T20:30:37.943Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-04-11T11:59:02.335Z",
+      "last_pushed_at": "2026-04-11T11:59:02.335Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:293": {
+      "kind": "problem",
+      "id": "293",
+      "title": "Calculate P50/P95/P99 Latency Percentiles",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/293",
+      "path": "problems/0293-calculate-p50-p95-p99-latency-percentiles",
+      "first_solved_at": "2026-04-11T12:07:59.071Z",
+      "last_pushed_at": "2026-04-11T12:07:59.071Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-04-11T12:09:38.255Z",
+      "last_pushed_at": "2026-04-11T12:09:38.255Z",
+      "language": "python",
+      "lines": 2
     }
   }
 }
