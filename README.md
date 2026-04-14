@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**112** solved · 108 problems · 3 labs · 1 math
+**113** solved · 109 problems · 3 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -79,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-02-23 | [solution](problems/0121-vector-element-wise-sum) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-02-13 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-02-23 | [solution](problems/0079-binomial-distribution-probability) |
+| [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-04-14 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-02-07 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-02-24 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-02-05 | [solution](problems/0214-chain-rule-for-composite-functions) |
