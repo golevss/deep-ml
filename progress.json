@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:03:52.804Z",
+  "generated_at": "2026-11-26T12:20:37.250Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -713,6 +713,19 @@
       "last_pushed_at": "2026-11-26T12:03:52.198Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:2319": {
+      "kind": "problem",
+      "id": "2319",
+      "title": "First Look at a Table: Shape, Types, Missing Values and Unique Counts",
+      "difficulty": "easy",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/2319",
+      "path": "problems/2319-first-look-at-a-table-shape-types-missing-values-and-unique-counts",
+      "first_solved_at": "2026-11-26T12:20:36.742Z",
+      "last_pushed_at": "2026-11-26T12:20:36.742Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
