@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T10:44:06.752Z",
+  "generated_at": "2026-11-26T12:03:52.804Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -700,6 +700,19 @@
       "path": "math/0018-descriptive-statistics",
       "first_solved_at": "2026-11-26T10:44:06.218Z",
       "last_pushed_at": "2026-11-26T10:44:06.218Z"
+    },
+    "problem:2236": {
+      "kind": "problem",
+      "id": "2236",
+      "title": "Coefficient of Variation per Group with Small-Sample Correction",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/2236",
+      "path": "problems/2236-coefficient-of-variation-per-group-with-small-sample-correction",
+      "first_solved_at": "2026-11-26T12:03:52.198Z",
+      "last_pushed_at": "2026-11-26T12:03:52.198Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
