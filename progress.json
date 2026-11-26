@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:20:37.250Z",
+  "generated_at": "2026-11-26T12:41:11.667Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -726,6 +726,19 @@
       "last_pushed_at": "2026-11-26T12:20:36.742Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:2320": {
+      "kind": "problem",
+      "id": "2320",
+      "title": "Select Rows and Columns with Boolean Masks",
+      "difficulty": "easy",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/2320",
+      "path": "problems/2320-select-rows-and-columns-with-boolean-masks",
+      "first_solved_at": "2026-11-26T12:41:11.058Z",
+      "last_pushed_at": "2026-11-26T12:41:11.058Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
